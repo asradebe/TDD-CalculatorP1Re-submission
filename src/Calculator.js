@@ -15,5 +15,6 @@ function Multiply(num1, num2, num3, num4) {
     }
     return result;
 }
-
+Add();
+Multiply();
 
